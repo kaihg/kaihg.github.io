@@ -24,13 +24,17 @@ enableEmoji: true
 
 # Site parameters
 params:
+  # background: "images/kk-logo.png"
+
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/kaihg/kaihg.github.io
-  gitBranch: main
+  gitBranch: master
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
 
+  newsletter:
+    enable: false
 
