@@ -1,10 +1,10 @@
 # some information about you
-name: "Kaihg Huang"
+name: "Kaihg 黃"
 nickname: "KK"
-# image: "images/kk-logo.png"
+image: "images/kk-logo.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "我是"
 
 # give your contact information. they will be used in the footer
 contactInfo:
@@ -12,6 +12,7 @@ contactInfo:
 
 # a summary of what you do
 summary:
-- I am a Developer
-- I work with Go
-- I love to work with some fun projects
+- 一位 JAVA 工程師
+- 一位 Android APP 工程師
+- 一位資料科學家
+- 喜歡 DevOps、Aglie 的概念
