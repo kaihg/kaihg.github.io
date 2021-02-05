@@ -24,9 +24,15 @@ markup:
 # Enable global emoji support
 enableEmoji: true
 
+
+
 # Site parameters
 params:
   # background: "images/kk-logo.png"
+  logo:
+    main: images/kk-logo.png
+    inverted: images/kk-logo.png
+    # favicon: images/kk-logo.png
 
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/kaihg/kaihg.github.io

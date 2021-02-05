@@ -1,0 +1,57 @@
+# section information
+section:
+  name: 關於
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Engineer & Team Leader
+# your company information
+company:
+  name: Simbo Ltd.
+  url: "http://www.simbo.com.tw/"
+
+# a summary about you
+summary: '我是數據分析主管，帶領團隊分析產品，增加公司競爭力。設計ETL流程與程式架構，維護資料倉儲，使團隊成員能快速取得乾淨資料。了解敏捷，持續引導團隊改善工作流程並持續整合。'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "kaihg1028@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/kaihg"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/kaihg-a539a5125/?locale=zh_TW"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+softSkills:
+- name: 領導
+  percentage: 85
+  color: blue
+
+- name: 團隊合作
+  percentage: 90
+  color: yellow
+
+- name: 溝通
+  percentage: 85
+  color: pink
+
+- name: 認真工作
+  percentage: 85
+  color: green
+
+- name: 聰明作事
+  percentage: 90
+  color: green

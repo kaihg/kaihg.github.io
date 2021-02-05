@@ -1,0 +1,41 @@
+# section information
+section:
+  name: 技能
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # template: sections/skills.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "習慣並清楚如何建立 Docker Image，讓程式可以輕鬆的部署，減少環境干擾"
+  url: "https://www.docker.com/"
+
+- name: Ansible
+  logo: "/images/sections/skills/ansible.png"
+  summary: "使用 Ansible 加密、部署程式，讓我可以放心且輕易的部署我的專案到不同環境上"
+  url: "https://www.ansible.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: ""
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: ""
+  url: "https://git-scm.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: ""
+  url: "https://www.python.org/"
+
+- name: Java
+  summary: "超過5年的開發經驗，了解物件導向。曾開發過 Android APP，也使用過 Spring Boot 框架開發後端 Server"
