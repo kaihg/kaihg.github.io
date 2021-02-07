@@ -12,6 +12,15 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Java
+  summary: "超過5年的開發經驗，了解物件導向。曾開發過 Android APP，也使用過 Spring Boot 框架開發後端 Server"
+  url: "https://www.java.com"
+  logo: /images/sections/skills/java.svg
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Python 讓我能輕鬆的做資料分析，從基本的資料清洗到中間的資料探勘都會用到"
+  url: "https://www.python.org/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -23,19 +32,26 @@ skills:
   summary: "使用 Ansible 加密、部署程式，讓我可以放心且輕易的部署我的專案到不同環境上"
   url: "https://www.ansible.com/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: ""
+- name: Tableau
+  summary: "美麗而簡單的視覺化工具，熟知如何產生視覺化圖表以及清洗資料"
+  url: https://www.tableau.com/"
+  logo: /images/sections/skills/tableau.jpg
+
+- name: Vue
+  summary: "略有經驗，能製作一個簡單的前端網站"
+  url: "https://vuejs.org/"
+  logo: /images/sections/skills/vue.svg
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: ""
+  summary: "熟知基本操作與 Git-Flow 觀念"
   url: "https://git-scm.com/"
 
-- name: Python
-  logo: /images/sections/skills/python.png
-  summary: ""
-  url: "https://www.python.org/"
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Linux 是我使用 Docker, Ansible 時不可或缺的作業環境"
 
-- name: Java
-  summary: "超過5年的開發經驗，了解物件導向。曾開發過 Android APP，也使用過 Spring Boot 框架開發後端 Server"
+- name: SQL
+  summary: "了解基本 CRUD 操作及概念"
+  logo: /images/sections/skills/sql.svg
+
