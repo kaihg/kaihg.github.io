@@ -1,0 +1,29 @@
+# section information
+section:
+  name: 學歷
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: 國立中興大學 資訊工程碩士
+  icon: fa-microscope
+  timeframe: 2016-2018
+  institution:
+    name: 國立中興大學
+    url: "https://www.nchu.edu.tw/"
+  publications: #(optional)
+  - title: "基於遊戲時數建立博奕類遊戲推薦模型"
+    
+
+- name: 國立高雄大學 應用數學系
+  icon: fa-graduation-cap
+  timeframe: 2006-2010
+  institution:
+    name: 國立高雄大學
+    url: "https://www.nuk.edu.tw/"
+  

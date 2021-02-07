@@ -1,0 +1,70 @@
+# section information
+section:
+  name: 工作經驗
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Simbo Ltd.
+    url: "https://www.simbo.com.tw"
+    location: 台灣
+  positions:
+  - designation: 數據部門主管
+    start: 2021/02
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - 帶領團隊分析產品
+    - 改善團隊軟硬體，以增加分析能力
+
+  - designation: Data Engineer
+    start: 2018/07
+    end: 2021/01
+    responsibilities:
+    - 從無到有建立數據分析系統
+    - 參與多次分析專案
+    - 探索異常玩家特徵，並開發監控軟體，定期找出有作弊嫌疑的玩家
+
+  - designation: Senior Software Engineer
+    start: 2017/06
+    end: 2018/07
+    responsibilities:
+    - 使用 Egret 開發 HTML5 遊戲    
+
+  - designation: Android Developer
+    start: 2016/10
+    end: 2017/06
+    responsibilities:
+    - 維護 Android APP
+    - 介接公司開發的 HTML5 遊戲
+
+- company:
+    name: 尊博科技
+    url: "https://www.jumbogames.com.tw/"
+    location: 台灣
+    overview: One of the largest gaming suppliers in the world.
+  positions:
+  - designation: Senior Software Engineer
+    start: 2015/07
+    end: 2016/09
+    responsibilities:
+    - 開發Android App, 主要內容為介接 unity 及 html5 遊戲
+
+- company:
+    name: 新蛋
+    url: "https://www.newegg.com/"
+    location: 台灣
+  positions:
+  - designation: Senior Software Engineer
+    start: 2012/04
+    end: 2015/06
+    responsibilities:
+    - 維護新蛋購物平台app，包含手機版以及平板版本。
+    - 參與開發NeweggBox，一個雲端檔案管理app。

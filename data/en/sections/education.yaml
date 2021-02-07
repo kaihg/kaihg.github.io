@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master of Computer Science
+  icon: fa-microscope
+  timeframe: 2016-2018
+  institution:
+    name: National Chung Hsing University
+    url: "https://www.nchu.edu.tw/"
+  publications: #(optional)
+  - title: "Using the playing time to build a recommendation model of gamble games."
+    
+- name: Bachelor of Science, Applied Mathematics
+  icon: fa-graduation-cap
+  timeframe: 2006-2010
+  institution:
+    name: National University of Kaohsiung
+    url: "https://www.nuk.edu.tw/"
+  
